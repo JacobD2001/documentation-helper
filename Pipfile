@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
+
+[packages]
+langchain-openai = "*"
+python-dotenv = "*"
+langchain-community = "*"
+langchain = "*"
+langchain-pinecone = "*"
+beautifulsoup4 = "*"

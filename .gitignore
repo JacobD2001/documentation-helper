@@ -164,3 +164,4 @@ cython_debug/
 #my
 .cursorrules
 langchain-docs
+.vscode
